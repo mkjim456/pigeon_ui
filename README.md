@@ -3,8 +3,9 @@
 A new Flutter project.
 
 # ScreenShots
-![Screenshot_2021 09 17_18 29 40 258](https://user-images.githubusercontent.com/36920057/133783736-0d5ceffd-04dc-42e8-bb96-6ad85bb08bc9.png)
-![Screenshot_2021 09 17_18 32 23 220](https://user-images.githubusercontent.com/36920057/133783774-c7ce40af-700b-428c-af29-d443993b14e7.png)
+
+![S1](https://user-images.githubusercontent.com/36920057/133784429-67c2f7be-9071-49a2-9b0a-2e27f65e9036.png)
+![S2](https://user-images.githubusercontent.com/36920057/133784454-bb160c2e-1469-49b5-bec1-dac3c655ca4a.png)
 
 
 ## Getting Started
